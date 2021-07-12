@@ -1,0 +1,22 @@
+{
+   "format_version" : 2,
+   "header" : {
+      "description" : "Pain is temporary, Swag is forever
+Version 1.9 is the version where SwagPack finally comes out of beta! The 1.9 series are not exactly full releases, but 1.10 will be the full non beta release of swagpack. Stay ready!",
+      "name" : "§dSwag§9Pack 1.9.2",
+      "uuid" : "a6ba02ce-e271-11eb-ba80-0242ac130004",
+      "version" : [ 1, 9, 2 ],
+      "min_engine_version" : [ 1, 16, 0 ]
+   },
+   "modules" : [
+      {
+         "description" : "Epic",
+         "type" : "resources",
+         "uuid" : "ea1b07bd-9ccf-4d28-8c8c-6d8a5d748729",
+         "version" : [ 6, 9, 0 ]
+      }
+   ],
+   
+   "subpacks": [
+   ]
+}
