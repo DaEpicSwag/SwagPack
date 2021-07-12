@@ -3,9 +3,9 @@
    "header" : {
       "description" : "Pain is temporary, Swag is forever
 Version 1.9 is the version where SwagPack finally comes out of beta! The 1.9 series are not exactly full releases, but 1.10 will be the full non beta release of swagpack. Stay ready!",
-      "name" : "§dSwag§9Pack 1.9.3",
-      "uuid" : "2a5c19a8-e35a-11eb-ba80-0242ac130004",
-      "version" : [ 1, 9, 3 ],
+      "name" : "§dSwag§9Pack 1.9.4",
+      "uuid" : "9d11edde-e35e-11eb-ba80-0242ac130004",
+      "version" : [ 1, 9, 4 ],
       "min_engine_version" : [ 1, 16, 0 ]
    },
    "modules" : [
@@ -18,5 +18,15 @@ Version 1.9 is the version where SwagPack finally comes out of beta! The 1.9 ser
    ],
    
    "subpacks": [
+{
+"folder_name": "gui",
+"name": "§7Default GUI",
+"memory_tier": 1
+},
+{
+"folder_name": "none",
+"name": "§0Clear §8GUI",
+"memory_tier": 1
+      }
    ]
 }
